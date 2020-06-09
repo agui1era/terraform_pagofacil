@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "vpc_cidr" {
-  default = "10.0.0.0/8"
+  
 }
 
 variable "instance_type" {
